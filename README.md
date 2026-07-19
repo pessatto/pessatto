@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Me chamo João Pedro Mendonça Pessatto, tenho 18 anos e sou natural de Goiânia/GO. Atualmente, estou cursando Ciência da Computação na PUCGO. Gosto de aprender continuamente, resolver problemas e transformar ideias em soluções reais por meio do código. Estou sempre em busca de aprender mais, explorar novas ferramentas e aprofundar meus conhecimentos em programação.
+Me chamo João Pedro Mendonça Pessatto, tenho 20 anos e sou natural de Goiânia/GO. Atualmente, estou cursando Ciência da Computação na UFG. Gosto de aprender continuamente, resolver problemas e transformar ideias em soluções reais por meio do código. Estou sempre em busca de aprender mais, explorar novas ferramentas e aprofundar meus conhecimentos em programação.
 
 ---
 
